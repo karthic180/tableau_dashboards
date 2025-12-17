@@ -3,6 +3,8 @@
 This repo documents a Tableau dashboard built on an OTT content‑level dataset to analyze **viewer drop‑off, completion, and retention risk** across shows, seasons, and episodes. It contains **episode‑level features** such as content attributes, engagement scores, and retention risk (no user‑level data).
 ## Daset Used
 Kaggle Dataset: https://www.kaggle.com/datasets/eklavya16/ott-viewer-drop-off-and-retention-risk-dataset
+## Dashboard 
+https://github.com/karthic180/tableau_dashboards/blob/main/OTT_Dashboard_Tableau.pdf
 
 # Dataset Schema
 The core columns in the dataset:
